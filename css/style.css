@@ -406,6 +406,7 @@ body {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+
 .footer-social-text {
   font-weight: 500;
   font-size: 16px;
@@ -434,8 +435,8 @@ body {
 }
 .footer-social-links-link:hover,
 .footer-social-links-link:focus {
-  background-color: #31D0AA;
+  background-color: #31d0aa;
 }
 .footer-social-links .icon{
-  fill: #f4f4fd;
+  fill: var(--CLOUD, #F4F4FD);
 }
